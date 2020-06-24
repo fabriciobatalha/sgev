@@ -1,0 +1,11 @@
+.bloco {
+    background-color: darkcyan;
+}
+
+.bloco p {
+    color: white;
+}
+
+a:hover {
+    text-decoration: none;
+}
